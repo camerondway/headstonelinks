@@ -6,7 +6,7 @@ import { flexCenter } from "../../constants/styles";
 export interface HeaderProps {
   headline: string;
   subtext: string;
-  additionalInfo: string | HTMLElement;
+  additionalInfo?: string;
   altText: string;
   img?: string;
 }
