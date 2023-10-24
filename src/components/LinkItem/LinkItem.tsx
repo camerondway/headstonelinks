@@ -62,6 +62,10 @@ const useStyles = createUseStyles({
         marginTop: "2px",
       },
     },
+    "&__democassettes": {
+      background: colors.gray,
+      color: colors.red,
+    },
   },
 });
 

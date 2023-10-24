@@ -2,6 +2,7 @@ import { BsSpotify, BsInstagram } from "react-icons/bs";
 import { FaBandcamp, FaAmazon } from "react-icons/fa6";
 import { BiMailSend } from "react-icons/bi";
 import { SiApplemusic, SiYoutubemusic } from "react-icons/si";
+import { PiCassetteTapeFill } from "react-icons/pi";
 
 export const linkItems = [
   {
@@ -38,5 +39,10 @@ export const linkItems = [
     title: "Booking",
     url: "mailto:headstone317@gmail.com",
     icon: <BiMailSend />,
+  },
+  {
+    title: "Demo Cassettes",
+    url: "https://nooseknotrecords.bandcamp.com/album/headstone-23-demo",
+    icon: <PiCassetteTapeFill />,
   },
 ];
