@@ -10,8 +10,9 @@ export const shows: DateProps[] = [
   },
   {
     date: "12/15/23",
-    venue: "TBA",
+    venue: "Two Key Tavern (385 S Limestone St)",
     location: "Lexington, KY",
     acts: "Cold Blood Fest Pre-Show",
+    link: "https://app.promotix.com/events/details/Cold-Blood-Fest-tickets-2?referrer=organizer-page&organizer_id=KingOvHellProductions&org_event_id=Cold-Blood-Fest-tickets-2",
   },
 ];
