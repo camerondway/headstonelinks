@@ -35,7 +35,7 @@ const Dates: React.FC<ComponentProps> = ({ dates }) => {
         footer={
           <div>
             <p>
-              <strong>2024</strong>: TBA
+              <strong>MORE DATES TBA</strong>
             </p>
           </div>
         }
