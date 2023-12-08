@@ -8,13 +8,13 @@ export const shows: DateProps[] = [
   //   acts: "Volcano, Inner Peace, Sermos",
   //   link: "https://www.eventbrite.com/e/volcano-inner-peace-sermos-headstone-one-night-only-at-the-emerson-tickets-726147937027?aff=V",
   // },
-  {
-    date: "12/16/23",
-    venue: "Legends",
-    location: "Cincinnati, OH",
-    acts: "Cold Blood Fest",
-    link: "https://app.promotix.com/events/details/Cold-Blood-Fest-tickets-2?referrer=organizer-page&organizer_id=KingOvHellProductions&org_event_id=Cold-Blood-Fest-tickets-2",
-  },
+  // {
+  //   date: "12/16/23",
+  //   venue: "Legends",
+  //   location: "Cincinnati, OH",
+  //   acts: "Cold Blood Fest",
+  //   link: "https://app.promotix.com/events/details/Cold-Blood-Fest-tickets-2?referrer=organizer-page&organizer_id=KingOvHellProductions&org_event_id=Cold-Blood-Fest-tickets-2",
+  // },
   {
     date: "01/20/24",
     venue: "Legion Post 241",
